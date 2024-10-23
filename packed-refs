@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+7ceca9c52362afaa47f54088c3c8379f3187aab7 refs/remotes/origin/bookstore
+fa6bb07442d70a4ea72d26c6731d8ff57ed4f9d6 refs/remotes/origin/main
+649350d5ed019e6c73a0565807975d544723485d refs/remotes/origin/patch-finalproj-080922
+6ae9825b4381cd5ab334457119733a1e9978605c refs/remotes/origin/patch_final-project
